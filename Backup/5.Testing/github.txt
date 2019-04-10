@@ -1,0 +1,6 @@
+echo "# Board-ply" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/bishalmj/Board-ply.git
+git push -u origin master
